@@ -9,6 +9,9 @@ RAIpred is a bioinformatic-ware with the ability to discriminate RA-causing pept
 
 RAIpred is also available as web-server at https://webs.iiitd.edu.in/raghava/raipred. Please read/cite the content about the RAIpred for complete information including algorithm behind the approach.
 
+## Datasets folder
+Contain all the dataset
+
 ## Standalone
 The Standalone version of raipred is written in python3 and following libraries are necessary for the successful run:
 - scikit-learn
