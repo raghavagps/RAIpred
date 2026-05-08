@@ -9,6 +9,9 @@ RAIpred is a bioinformatic-ware with the ability to discriminate RA-causing pept
 
 RAIpred is also available as web-server at https://webs.iiitd.edu.in/raghava/raipred. Please read/cite the content about the RAIpred for complete information including algorithm behind the approach.
 
+## Zenodo
+https://doi.org/10.5281/zenodo.19910439
+
 ## Datasets folder
 Contain all the dataset
 
