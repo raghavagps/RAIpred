@@ -9,6 +9,10 @@ RAIpred is a bioinformatic-ware with the ability to discriminate RA-causing pept
 
 RAIpred is also available as web-server at https://webs.iiitd.edu.in/raghava/raipred. Please read/cite the content about the RAIpred for complete information including algorithm behind the approach.
 
+## Reference
+Tomer R, Jain S, Gahlot PS, Bajiya N and Raghava GPS (2025) 
+          In-silico tool for predicting and scanning rheumatoid arthritis-inducing peptides in an antigen. Front. Immunol. 16:1630863. doi: 10.3389/fimmu.2025.1630863
+		  
 ## Zenodo
 https://doi.org/10.5281/zenodo.19910439
 
